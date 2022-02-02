@@ -21,7 +21,7 @@ async def restar(ctx, n1, n2):
 
 #Función para realizar una operación matemática: multiplicación
 @bot.command(name = 'multi')
-async def multipli(ctx, n1, n2):
+async def multiply(ctx, n1, n2):
   response = int(n1) * int(n2)
   await ctx.send(response)
 
