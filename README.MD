@@ -16,7 +16,7 @@ Discord usa un prefijo en los bots para realizar ciertas acciones con comandos, 
 
 ```
 
-!sum : Función que para sumar
+!sum : Función para sumar
 !rest : Función para restar
 !multi : Función para multiplicar
 !div : Función para dividir
